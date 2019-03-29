@@ -2,7 +2,7 @@
 <manifest>
     <remote name="origin" fetch=".." />
 
-    <default remote="origin" revision="refs/heads/master" sync-j="8" />
+    <default remote="origin" revision="master" sync-j="8" />
 
     <project name="ZXingDemo" path="wangmingdong102/ZXingDemo" />
 </manifest>
