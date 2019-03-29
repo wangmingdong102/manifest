@@ -1,1 +1,0 @@
-0000000000000000000000000000000000000000 70509310b4c57359a394689c556b80a4cc8ef323 wangmingdong102 <wangmingdong102@sina.com> 1553845300 +0800	fetch --progress origin --tags +refs/heads/*:refs/remotes/origin/* +refs/heads/master:refs/remotes/origin/master: storing head
