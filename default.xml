@@ -4,7 +4,6 @@
 
     <default remote="origin" revision="master" sync-j="8" />
 
-    <project name="TmGroup" path="wangmingdong102/TmGroup" />
     <project name="ZXingDemo" path="wangmingdong102/ZXingDemo" />
     <project name="ArcFaceDemoV27" path="wangmingdong102/ArcFaceDemoV27" />
     <project name="OpencvDemo" path="wangmingdong102/OpencvDemo" />
