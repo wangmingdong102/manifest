@@ -5,5 +5,7 @@
     <default remote="origin" revision="master" sync-j="8" />
 
     <project name="ZXingDemo" path="wangmingdong102/ZXingDemo" />
+    <project name="TmGroup" path="wangmingdong102/TmGroup" />
+
 </manifest>
 
