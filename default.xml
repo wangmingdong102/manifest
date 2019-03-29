@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<manifest>
+    <remote name="wangmingdong102" fetch="git@github.com:wangmingdong102/" />
+
+    <default remote="wangmingdong102" revision="refs/heads/master" sync-j="8" />
+
+    <project name="ZXingDemo" path="ZXingDemo" />
+</manifest>
+
